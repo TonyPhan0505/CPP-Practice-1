@@ -1,0 +1,26 @@
+
+CMPUT 350  Assignment 1
+-----------------------
+
+Student Id: 1734390
+            ----------------
+
+
+I hereby acknowledge the following sources that helped me finish this
+assignment (fellow students, TAs, books, internet, ...) and how they
+contributed:
+
+
+
+
+
+
+
+
+
+
+
+Your name in lieu of a signature:
+Binh H. Phan
+
+           -----------------------

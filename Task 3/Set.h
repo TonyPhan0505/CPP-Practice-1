@@ -43,6 +43,7 @@ private:
 
   // you may add *private* helper functions here, or *constant* data, but no
   // other member functions or data or function implementations
+  const int INT_BITS = sizeof(int)*8;
 };
   
 #endif
